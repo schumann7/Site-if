@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 130px 0px 130px;
+}
+input {
+    font-size: 21pt;
+    border-radius: 5px;
+}
+.barraverde {
+    background-color: rgb(10, 108, 10);
+    margin: 20px 130px 0px 130px;
+    display: flex;
+    max-height: 50px;
+    min-width: 1100px;
+}
+.p{ 
+    color: white;
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 5px;
+    border-right: solid white 1px;
+}
+.b {
+    color: white;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-left: solid white 1px;
+    border-right: solid white 1px;    
+}
+.a{ 
+    color: white;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.homeicon {
+    width: 20px;
+    height: 20px;
+    padding: 15px 5px 0px 10px;
+}
+.sepe {
+    width: 1220px;
+    height: 150px;
+    margin: 30px 130px 0px 130px;
+}
+.noticiatit {
+    float: right;
+    margin: 30px 1200px 0px 0px;
+    font-size: 24pt;
+    color: rgb(75, 75, 75);
+}
+.noticiaimagens {
+    width: 240px;
+    height: 240px;
+    margin: 20px 0px 0px 130px;
+}
+.h4not1 {
+    float: right;
+    margin: 30px 630px 0px 0px;
+    font-size: 16pt;
+    color: green;
+}
+.h4not2 {
+    float: right;
+    margin: 30px 310px 0px 0px;
+    font-size: 16pt;
+    color: green;
+}
+.pnoticia1 {
+    float: right;
+    margin: -180px 300px 0px 400px;
+    text-align: justify;
+    font-size: 14pt;
+}
+.pnoticia2 {
+    float: right;
+    margin: -180px 300px 0px 400px;
+    text-align: justify;
+    font-size: 14pt;
+    text-decoration: none;
+    color: black;
+}
+.curso {
+    width: 450px;
+    height: 70px;
+    margin: 20px 0px 0px 130px;
+    display: list-item;
+}
+.curso:hover {
+    width: 500px;
+    height: 80px;
+    opacity: 80%;
+    transition: ease-in-out 0.7s;
+}
+footer{
+    background-color: rgb(212, 73, 73);
+    margin-top: 20px;
+}
+span{
+    color: white;
+    display: list-item;
+    text-align: center;
+    font-size: 13pt;
+}
+.noticia1 {
+    font-size: 21pt;
+    margin: 30px 0px 0px 130px;
+}
+.datanoticia {
+    margin: 15px 0px 0px 130px;
+}
+.noticiaimagemm {
+    width: 300px;
+    height: 300px;
+    margin: 20px 0px 0px 130px;
+}
+.pnoticia {
+    margin: 15px 130px 0px 20px;
+    text-align: justify;
+    font-size: 12pt;
+}
+.files {
+    width: 50px;
+    height: 50px;
+    margin: 20px 0px 0px 120px;
+}
+.h3ccpi {
+    float: right;
+    margin: 30px 800px 0px 0px;
+    font-size: 19pt;
+}
+.h4ccpi {
+    font-size: 21pt;
+    margin: 30px 0px 0px 130px;
+}
+.pccpi {
+    font-size: 12pt;
+    margin: 20px 130px 0px 130px;
+    text-align: justify;
+}
+.h5ccpi {
+    font-size: 19pt;
+    margin: 20px 130px 0px 130px;
+}
+.titular {
+    font-size: 12pt;
+    margin: 20px 130px 0px 130px;
+}
+.substituto {
+    font-size: 12pt;
+    margin: 20px 130px 0px 130px;
+}
+.h5ccpi1 {
+    font-size: 19pt;
+    margin: 20px 130px 0px 130px;
+}
+.lista {
+    font-size: 12pt;
+    margin: 20px 130px 0px 110px;
+    text-align: justify;
+}
+.item {
+    padding-top: 5px;
+}
